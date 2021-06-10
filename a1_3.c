@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//chd
 int main() {
     long long a, b;
     scanf ("%lld %lld", &a, &b);
